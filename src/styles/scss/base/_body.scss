@@ -1,0 +1,13 @@
+@import "variables";
+
+.wrapper {
+
+  p {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    line-height: 1.8;
+    font-size: $main-font-size-text;
+    font-weight: $main-font-regular;
+  }
+}
